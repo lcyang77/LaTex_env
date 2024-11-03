@@ -1,0 +1,21 @@
+{
+    "name": "LaTeX Environment",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": true,
+            "username": "vscode",
+            "upgradePackages": true
+        }
+    },
+    "postCreateCommand": "bash ./.devcontainer/install-latex.sh",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "James-Yu.latex-workshop",
+                "tecosaur.latex-utilities",
+                "valentjn.vscode-ltex"
+            ]
+        }
+    }
+}
