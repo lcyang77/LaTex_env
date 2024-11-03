@@ -1,0 +1,2 @@
+# LaTex_env
+用于在CodeSpace中进行Latex编译并导出为PDF或Word
