@@ -167,22 +167,3 @@ code --install-extension James-Yu.latex-workshop
 code --install-extension tecosaur.latex-utilities
 code --install-extension valentjn.vscode-ltex
 ```
-
-## 贡献指南
-
-欢迎提交 Issues 和 Pull Requests 来改进本环境。
-
-## 许可证
-
-[选择合适的许可证]
-
-## 更新日志
-
-- 2024-03-XX：初始版本发布
-  - 基础环境配置
-  - 添加环境检查脚本
-  - 完善文档支持
-
-## 联系方式
-
-[添加你的联系方式]
